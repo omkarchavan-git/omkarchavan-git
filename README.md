@@ -6,12 +6,12 @@
 
 ### 🛠️ Tech Stack  
 
-**Backend:** Java, Spring Boot, Hibernate, REST APIs  
-**Frontend:** React.js, JavaScript, HTML, CSS  
-**Database:** MySQL, PostgreSQL  
-**DevOps & Cloud:** Azure, Docker, GitHub Actions  
-**API & Testing Tools:** Postman, Swagger 
-**Others:** Git, GitHub, Maven, Gradle  
+**Backend: **  Java, Spring Boot, Hibernate, REST APIs  
+**Frontend: **  React.js, JavaScript, HTML, CSS  
+**Database: **  MySQL, PostgreSQL  
+**DevOps & Cloud: **  Azure, Docker, GitHub Actions  
+**API & Testing Tools: **  Postman, Swagger 
+**Others: **  Git, GitHub, Maven, Gradle  
 
 ---
 
