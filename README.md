@@ -6,12 +6,12 @@
 
 ### 🛠️ Tech Stack  
 
-**Backend: **  Java, Spring Boot, Hibernate, REST APIs  
-**Frontend: **  React.js, JavaScript, HTML, CSS  
-**Database: **  MySQL, PostgreSQL  
-**DevOps & Cloud: **  Azure, Docker, GitHub Actions  
-**API & Testing Tools: **  Postman, Swagger 
-**Others: **  Git, GitHub, Maven, Gradle  
+**Backend :**  Java, Spring Boot, Hibernate, REST APIs  
+**Frontend :**  React.js, JavaScript, HTML, CSS  
+**Database :**  MySQL, PostgreSQL  
+**DevOps & Cloud :**  Azure, Docker, GitHub Actions  
+**API & Testing Tools :**  Postman, Swagger
+**Others :**  Git, GitHub, Maven, Gradle  
 
 ---
 
@@ -40,7 +40,7 @@
 - 🔭 Currently working on **Spring Boot & React Projects**  
 - 🌍 Learning **Cloud (Azure)** & **DevOps practices**  
 - 🧑‍💻 Open to collaborate on **Full Stack & Automation projects**  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/omkar-chavan-456093254/)**  
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/omkar-chavan-in/)**  
 
 ---
 
