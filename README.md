@@ -52,7 +52,11 @@
 
 <!--START_SECTION:waka-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+MySQL;Automation+%26+Cloud+Deployment;Always+Learning+New+Things!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=500&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+MySQL;Automation+%26+Cloud+Deployment;Always+Learning+New+Things!" alt="Typing SVG" />
+  </a>
+</p>
 
 
 
