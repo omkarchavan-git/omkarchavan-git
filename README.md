@@ -13,3 +13,21 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmkarChavan&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarChavan&layout=compact&theme=tokyonight)
+
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmkarChavan&theme=github)
+
+
+
+![Issues](https://img.shields.io/github/issues/OmkarChavan/my-project)
+![Pull Requests](https://img.shields.io/github/issues-pr/OmkarChavan/my-project)
+![Forks](https://img.shields.io/github/forks/OmkarChavan/my-project?style=social)
+
+
+
+
+
