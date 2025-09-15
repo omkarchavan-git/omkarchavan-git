@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Omkar Chavan  
 
-🚀 **Full Stack Java Developer** | 💡 Passionate about building scalable apps & APIs | ☁️ Exploring Cloud & DevOps  
+🚀 **Full Stack Java Developer** | 💡 Passionate about building scalable Web apps & APIs | ☁️ Exploring Cloud & DevOps  | 
 
 ---
 
@@ -24,6 +24,15 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![HackerRank ](https://img.shields.io/badge/HackerRank%20(Java)-FFD700?style=for-the-badge&logo=HackerRank&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/omkarchavan-git)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
+
+
 
 
 ### 📊 GitHub Stats  
@@ -39,7 +48,8 @@
 ### 🌱 About Me  
 - 🔭 Currently working on **Spring Boot & React Projects**  
 - 🌍 Learning **Cloud (Azure)** & **DevOps practices**  
-- 🧑‍💻 Open to collaborate on **Full Stack & Automation projects**  
+- 🧑‍💻 Open to collaborate on **Java Backend Projects**
+- 🏅 Earned **Gold Badge in Java on HackerRank**  
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/omkar-chavan-in/)**  
 
 ---
