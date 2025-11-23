@@ -59,7 +59,7 @@
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=omkarchavan-git&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=8)
 
-[![Omkar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarchavan-git&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Omkar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarchavan-git&theme=tokyo-night&hide_border=true&area=true&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <!--START_SECTION:waka-->
